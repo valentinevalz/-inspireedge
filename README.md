@@ -1,0 +1,2 @@
+# -inspireedge
+inspireedge-ai-dashboard
